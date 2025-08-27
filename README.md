@@ -46,6 +46,9 @@ Credit all libilities
 Recipt Voucher
 Payment Voucher
 
+Stock Mangement in Excel
+Accounting in Excel
+
 
 
 
