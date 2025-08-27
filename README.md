@@ -1,7 +1,8 @@
 # FA
 
+Debit            Credit 
 
-            To Sales 120
+                  By Sales 120
 
-By 
+By Purchase
 
