@@ -33,7 +33,13 @@ Gross Profit
 
 Net Profit = Gross Profit - Direct Expense
 
-Stock
+Stock (Asset)
+
+
+
+Debit what comes in
+Credit what comes in
+
 
 
 
