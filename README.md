@@ -29,6 +29,13 @@ Rent
 
 
 
+Gross Profit
+
+Net Profit = Gross Profit - Direct Expense
+
+Stock
+
+
 
 
 
