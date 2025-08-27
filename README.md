@@ -40,6 +40,13 @@ Stock (Asset)
 Debit what comes in
 Credit what comes in
 
+Debit all assets
+Credit all libilities
+
+Recipt Voucher
+Payment Voucher
+
+
 
 
 
